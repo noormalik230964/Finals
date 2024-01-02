@@ -1,0 +1,54 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box1{
+    background-color: black;
+    color: rgb(240, 239, 239);
+    text-align: center;
+    font-size: 3px;
+    width: 1263px;
+    }
+
+    .intro{
+        text-align: center;
+        font-size: 15px;
+        margin-top: 30px;
+    }
+
+.box2{
+    font-size:2px;
+    margin-top:30px;
+    width: 400px;
+    margin-left: 500px;
+}
+
+.box3{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.box4{
+    text-align: center;
+}
+
+.box5{
+    width: 500px;
+    margin-left: 400px;
+    text-align: center;
+    
+}
+.box6{
+    text-align: center;
+}
+
+.box7{
+    color: rgb(14, 15, 15);
+}
+
+.box8{
+    text-align: center;
+}
